@@ -1,4 +1,4 @@
-It MERN Stack job website, where users can signup/login and users can apply to different jobs posted by the admin of the website. The admin can view the users who applied to the jobs posted by him, and accept/reject users based on their profile and submitted details.
+It is a MERN Stack job website, where users can signup/login and users can apply to different jobs posted by the admin of the website. The admin can view the users who applied to the jobs posted by him, and accept/reject users based on their profile and submitted details.
 
 Open client and server in two terminals. Do `npm i` in both terminals to install node_modules.
 
